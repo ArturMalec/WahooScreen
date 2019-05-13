@@ -1,10 +1,3 @@
-/*
- * weapon.h
- *
- *  Created on: 1 paü 2018
- *      Author: Malcini
- */
-
 #ifndef SCREEN_H_
 #define SCREEN_H_
 #include <string>
