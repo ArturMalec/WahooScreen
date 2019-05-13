@@ -1,9 +1,3 @@
-/*
- * weapon.cpp
- *
- *  Created on: 26 paü 2018
- *      Author: Malcini
- */
 #include <iostream>
 #include "screen.h"
 
