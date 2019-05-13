@@ -1,9 +1,3 @@
-/*
- * weapon_use.cpp
- *
- *  Created on: 26 paü 2018
- *      Author: Malcini
- */
 #include <conio.h>
 #include <windows.h>
 #include "screen.h"
